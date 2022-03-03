@@ -1,3 +1,3 @@
 # mail-template
 
-<img src="mail.jpg">
+<img src="mail.png">
